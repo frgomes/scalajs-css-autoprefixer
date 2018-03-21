@@ -2,7 +2,7 @@ package scalajscss.plugins.autoprefixer
 
 class SimpleTest extends BaseTest {
 
-  test("simple", () => {
+  test("simple") {
     expect(true).toBeTruthy()
-  })
+  }
 }
